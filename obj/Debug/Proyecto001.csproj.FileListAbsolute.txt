@@ -1,0 +1,7 @@
+D:\proyectogit\Proyecto001\Proyecto001\bin\Debug\Proyecto001.exe.config
+D:\proyectogit\Proyecto001\Proyecto001\bin\Debug\Proyecto001.exe
+D:\proyectogit\Proyecto001\Proyecto001\bin\Debug\Proyecto001.pdb
+D:\proyectogit\Proyecto001\Proyecto001\obj\Debug\Proyecto001.csproj.AssemblyReference.cache
+D:\proyectogit\Proyecto001\Proyecto001\obj\Debug\Proyecto001.csproj.CoreCompileInputs.cache
+D:\proyectogit\Proyecto001\Proyecto001\obj\Debug\Proyecto001.exe
+D:\proyectogit\Proyecto001\Proyecto001\obj\Debug\Proyecto001.pdb
